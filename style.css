@@ -1,0 +1,49 @@
+h2{
+    color: rgb(165, 42, 144);
+}
+body{
+    background-color: aquamarine;
+}
+img{
+    width: 150px;
+    height: 110px;
+    float: right;
+    margin-right:2%;   
+}
+.two{
+   margin-top: -1%;
+}
+
+p{
+    margin-left:2%;
+}
+#one{
+    font-size: 20px;    
+}
+h3 {
+    margin-top: 5%;
+    margin-left: 40%;
+    color: rgb(43, 92, 226);  
+}
+table tr th{
+    background-color: brown;
+}
+ol li {
+    font-size:20px;
+}
+table{
+    margin-left: 40px;
+}
+.three{
+    margin-left: 80%;
+    font-size: 20px;  
+    
+}
+.four{
+    margin-left: 80%;
+    margin-top: 5%;
+}
+.five{
+    margin-left: 81%;
+    margin-top: -1%;
+}
